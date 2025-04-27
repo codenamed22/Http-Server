@@ -1,0 +1,18 @@
+# Binaries
+bin/
+tmp/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Editor swap files
+*~
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vendor
+vendor/
